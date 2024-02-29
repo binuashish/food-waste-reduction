@@ -1,1 +1,1 @@
-# food-waste-reduction
+# food-waste-reduction-solution
