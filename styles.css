@@ -1,0 +1,203 @@
+body{ 
+    background-color: #03aa38;
+    height: 300px;
+    background-size:contain;
+    
+    
+    
+}
+h1 { 
+    font-size: 50px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100%;
+    color: aliceblue;
+    
+    
+   
+ }
+.book {
+    text-align: center;
+    line-height: 50%;
+}
+
+#bookr {
+    text-align: center;
+}
+nav {
+    text-align: right;
+    
+    
+    
+}
+a {
+    text-decoration: none;
+    color:black;
+}
+.fork:hover {
+    text-decoration: underline;
+}
+.zero {
+    background-image: url("https://i.pinimg.com/564x/91/8a/7c/918a7c33fb1333c3daeed806202ed0c1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 101.4%;
+    position:relative;
+    top: 1px;
+    right: 7.5px;
+}
+p {
+    line-height: 100px;
+    color: aliceblue;
+}
+footer {
+    color: aliceblue;
+}
+h2 {
+    color: aliceblue;
+}
+h3 {
+    color: aliceblue;
+}
+#man {
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: #f7cac9;
+    font-size: 20px;
+    line-height: 50px;
+}
+#man:hover {
+    text-decoration: none;
+    background-color: #fcbab9;
+    
+}
+hr {
+    border: 10px solid rgb(141, 124, 154);
+    border-radius: 5px;
+    position: relative;
+    bottom: 30px;
+    right: 7.5px;
+    width: 100%;
+}
+.vasu:hover {
+    color:#f7cac9;   
+}
+.center {
+    display: block;
+    margin-right: auto;
+    margin-left: 50px;;
+    position: relative;
+    bottom: 190px;
+    right: 7.5px;
+}
+
+.vasu {
+    color: white;
+}
+.waaw {
+    border: 0px solid black;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  text-align: left;
+  position: relative;
+  left: 1000px;
+  top:150px;
+}
+#waawe {
+    background-image: url("https://img.freepik.com/premium-photo/green-background-with-green-background-that-says-green_873925-17108.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    width: 101.4%;
+    height: 900px;
+    position: relative;
+    bottom: 75px;
+    right: 7.5px;
+}
+.marv {
+    border: 3px solid black;
+    border-radius: 8px;
+    background-color: #f1211e;
+    text-align: left;
+    position: relative;
+    left: 1020px;
+    top:65px;
+    font-size: large;
+}
+.marv:hover {
+    text-decoration: none;
+    background-color: #c60401; 
+}
+.qwe {
+    font-size: 50px;
+    
+    line-height: 50px;
+    text-align: 100px 100px;
+    position: relative;
+    left: 30px;
+    
+    
+
+}
+.qwe2 {
+    
+    background-image: url("https://i.pinimg.com/564x/bb/dd/08/bbdd0870778b252f0f0ba46261200d88.jpg");
+    width: 93%;
+    height: 250px;
+    position: relative;
+    bottom: 100px;
+    right: 7.5px;
+}
+.ashi {
+    position: relative;
+    top: 50px;
+    left:300px;
+}
+
+.ashi1 {
+    position: relative;
+    top: 53px;
+    left:290px; 
+}
+.ashi2 {
+    position: relative;
+    top: 50px;
+    left:280px;    
+}
+.ashi3 {
+    position: relative;
+    top: 50px;
+    left:275px;    
+}
+.poor {
+    border: 1px solid black;
+    width: 1000px;
+    font-size: smaller;
+    line-height: 20px;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+.fav {
+    color: aliceblue;
+}
+.fav:hover {
+    color: rgb(140, 143, 143);
+}
+.last {
+    background-color: black;
+  width: 30px;
+  height: 120px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 20px;
+  position: relative;
+  left: 96.3%;
+  bottom: 260px;
+}
+.container {
+    position: relative;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px 0 30px 0;
+  } 
